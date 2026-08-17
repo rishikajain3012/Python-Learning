@@ -1,0 +1,6 @@
+databases = ["DB2", "PostgreSQL", "Oracle", "MySQL"]
+
+print(databases)
+print(databases[0])
+print(databases[1])
+print(databases[-1])
